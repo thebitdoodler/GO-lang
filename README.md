@@ -1,4 +1,4 @@
-# GO-lang
+# Golang(GO programming language)
 Golang #30day Challenge 
 
 #***Day1***
